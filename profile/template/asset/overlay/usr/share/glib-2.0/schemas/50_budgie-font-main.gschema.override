@@ -1,0 +1,24 @@
+
+
+##
+## ``` sh
+## gsettings list-recursively | grep font
+## ```
+##
+
+
+
+
+[org.gnome.desktop.wm.preferences:Budgie]
+titlebar-font='Sans Bold 12'
+titlebar-uses-system-font=false
+
+
+[org.gnome.desktop.interface:Budgie]
+document-font-name='Sans 12'
+font-antialiasing='grayscale'
+font-hinting='slight'
+font-name='Sans 12'
+font-rendering='automatic'
+font-rgba-order='rgb'
+monospace-font-name='Monospace 12'
