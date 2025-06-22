@@ -6,4 +6,4 @@ theme='Gtk+'
 icon-size=36
 zoom-enabled=true
 zoom-percent=150
-dock-items=['nemo.dockitem', 'geany.dockitem', 'firefox.dockitem', 'sakura.dockitem', 'budgie-control-center.dockitem', 'org.buddiesofbudgie.BudgieDesktopSettings.dockitem', 'desktop.dockitem']
+dock-items=['nemo.dockitem', 'geany.dockitem', 'firefox-esr.dockitem', 'sakura.dockitem', 'budgie-control-center.dockitem', 'org.buddiesofbudgie.BudgieDesktopSettings.dockitem', 'desktop.dockitem']
