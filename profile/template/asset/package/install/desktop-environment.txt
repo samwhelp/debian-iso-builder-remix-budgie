@@ -49,7 +49,7 @@ budgie-brightness-controller-applet
 
 
 upower
-gnome-power-manager
+#gnome-power-manager
 power-profiles-daemon
 
 
