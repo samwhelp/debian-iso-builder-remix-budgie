@@ -11,7 +11,7 @@
 > However, it will get stuck at the `live-config` stage when booting.
 > I have not found the reason for this yet,
 > so I don't know how to solve it.
-> It is recommended to use [ubuntu-iso-builder-respin-budgie](https://github.com/samwhelp/ubuntu-iso-builder-respin-budgie) instead.
+> It is recommended to use [ubuntu-iso-builder-remix-budgie](https://github.com/samwhelp/ubuntu-iso-builder-remix-budgie) instead.
 
 
 
